@@ -1,7 +1,5 @@
 # Hello World, I'm Lara!
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
-
   <a href="https://github.com/campelolara">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=campelolara&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="35px" height="40px"></a>
