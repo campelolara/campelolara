@@ -3,9 +3,9 @@
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/anacristinaneves">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  <a href="https://github.com/campelolara">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=campelolara&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campelolara&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
 
